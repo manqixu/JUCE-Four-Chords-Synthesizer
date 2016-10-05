@@ -1,0 +1,19 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2015
+Project("{209EAFFA-B2CF-BBD0-30C3-47DB825830CC}") = "BasicAudio", "BasicAudio.vcxproj", "{7B6CD35D-F2F7-AB11-266F-C9021874876C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7B6CD35D-F2F7-AB11-266F-C9021874876C}.Debug|Win32.ActiveCfg = Debug|Win32
+		{7B6CD35D-F2F7-AB11-266F-C9021874876C}.Debug|Win32.Build.0 = Debug|Win32
+		{7B6CD35D-F2F7-AB11-266F-C9021874876C}.Release|Win32.ActiveCfg = Release|Win32
+		{7B6CD35D-F2F7-AB11-266F-C9021874876C}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
